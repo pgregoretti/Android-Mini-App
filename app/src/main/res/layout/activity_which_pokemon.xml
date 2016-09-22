@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".WhichPokemonActivity" >
+    <ProgressBar
+        android:max="6"
+        android:id="@+id/progressBar"
+        style="@android:style/Widget.ProgressBar.Horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <android.support.v4.view.ViewPager
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <TextView
+        android:gravity="center"
+        android:layout_centerInParent="true"
+        android:textAlignment="center"
+        android:id="@+id/WPQuestion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Large Text"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <Button
+        android:layout_centerHorizontal="true"
+        android:backgroundTint="?attr/colorAccent"
+        android:id="@+id/choice1"
+        android:layout_below="@+id/WPQuestion"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:checked="true"
+        android:text="RadioButton"
+        android:onClick="updateQuestionChoice"/>
+    <Button
+        android:layout_centerHorizontal="true"
+        android:backgroundTint="?attr/colorAccent"
+        android:id="@+id/choice2"
+        android:layout_below="@+id/choice1"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="RadioButton"
+        android:onClick="updateQuestionChoice"/>
+    <Button
+        android:layout_centerHorizontal="true"
+        android:backgroundTint="?attr/colorAccent"
+        android:id="@+id/choice3"
+        android:layout_below="@+id/choice2"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:checked="true"
+        android:text="RadioButton"
+        android:onClick="updateQuestionChoice"/>
+    <Button
+        android:layout_centerHorizontal="true"
+        android:backgroundTint="?attr/colorAccent"
+        android:id="@+id/choice4"
+        android:layout_below="@+id/choice3"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="RadioButton"
+        android:onClick="updateQuestionChoice"/>
+
+
+</RelativeLayout>

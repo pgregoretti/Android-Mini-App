@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/pamelons 1/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/pamelons 1/Documents/CS 4720/android-mini-app-gligar/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.1_540b104e96be344b8de9c62dda71c69118fc9198/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pamelons 1/Documents/CS 4720/android-mini-app-gligar/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/pamelons 1/Documents/CS 4720/android-mini-app-gligar/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.2.1_39ab1bea1b12a594a9aae96e86ec70db042b4595/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pamelons 1/Documents/CS 4720/android-mini-app-gligar/app/build/intermediates/exploded-aar/com.android.support/design/22.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="/Users/pamelons 1/Documents/CS 4720/android-mini-app-gligar/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-22.2.1_0a01dc461fc4bb8b126247c18205370f17899888/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pamelons 1/Documents/CS 4720/android-mini-app-gligar/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/pamelons 1/Documents/CS 4720/android-mini-app-gligar/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.2.1_8ae7fa684f34adf8846181714a84e0f1f8cb69f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pamelons 1/Documents/CS 4720/android-mini-app-gligar/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/pamelons 1/Documents/CS 4720/android-mini-app-gligar/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.1_6f4beab2a3c7d5661cd769dcd71920fb338514f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pamelons 1/Documents/CS 4720/android-mini-app-gligar/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="9e1c351836c9b370ba4ea729cc8051cbdee75b2c">
+        <dex dex="/Users/pamelons 1/Documents/CS 4720/android-mini-app-gligar/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9d111b28b18d3fb9f1283842b570a44ad30f5a53/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pamelons 1/Documents/CS 4720/android-mini-app-gligar/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="938ee419f436b3e3a25b5be72836faff5bfb3e08">
+        <dex dex="/Users/pamelons 1/Documents/CS 4720/android-mini-app-gligar/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4f793af469ceab9094d116525d0226e6fbd21c12/classes.dex" />
+    </item>
+
+</items>
